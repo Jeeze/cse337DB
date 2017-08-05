@@ -1,0 +1,18 @@
+Mitigation reserve is the amt of money that we set aside to offset the risk
+
+MR = MC + ResImpact
+
+Risk Leverage, you want it to always be greater than one during the mitigation
+
+RL = (Project impact/MC)
+
+	Note: if it's less than or equal to one we only do the amt of mitigation 	necessary to keep the RL greater than 1.
+
+		The calculation must be done for each risk identified in the
+		project.
+
+First! Calculate the cost of the project without profit (labor hours)
+Next! add management reserve
+Last! add profit margin (7%-10% of above)
+
+
